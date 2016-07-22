@@ -1,0 +1,16 @@
+{
+  "name": "clippyjs",
+  "version": "4.0.0",
+  "description": "AngularJS OAuth2",
+  "main": "./build/clippy.min.js",
+  "authors": [
+    "Seegno <projects@seegno.com>"
+  ],
+  "keywords": [
+    "AngularJS",
+    "Authentication",
+    "OAuth2"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/",
+}
